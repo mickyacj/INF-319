@@ -1,0 +1,3 @@
+> speciesid=as.numeric(iris$Species)
+> 
+> plot(iris[,1:4],col=speciesid+1)
